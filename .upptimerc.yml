@@ -6,10 +6,10 @@ sites:
     url: https://massa.net/
   - name: TestNet v12.2
     url: https://inno.massa.net/test12
-    method: POST
+    method: OPTIONS
   - name: TestNet v13 with U32
     url: https://inno.massa.net/test13
-    method: POST
+    method: OPTIONS
   - name: Flappy on InnoNet v12.2
     url: https://37.187.156.118/thyra/browse/A1PBsdX7sZA1kdSzcFzRT3JbSm3cjrxpfcJNNo9YaMZNGuZE3ec/index.html
 
