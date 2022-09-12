@@ -6,12 +6,19 @@ sites:
     url: https://massa.net/
   - name: TestNet v12.2
     url: https://inno.massa.net/test12
-    method: OPTIONS
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "jsonrpc": "2.0", "method": "get_cliques", "params": [], "id": 0 }'
   - name: TestNet v13 with U32
     url: https://inno.massa.net/test13
-    method: OPTIONS
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "jsonrpc": "2.0", "method": "get_cliques", "params": [], "id": 0 }'
   - name: Flappy on InnoNet v12.2
     url: https://37.187.156.118/thyra/browse/A1PBsdX7sZA1kdSzcFzRT3JbSm3cjrxpfcJNNo9YaMZNGuZE3ec/index.html
+    __dangerous__insecure: true
 
 status-website:
   baseUrl: /website-status
