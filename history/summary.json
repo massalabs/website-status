@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Massa",
+    "url": "https://massa.net/",
+    "icon": "https://favicons.githubusercontent.com/massa.net",
+    "slug": "massa",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "TestNet v12.2",
+    "url": "https://inno.massa.net/test12",
+    "icon": "https://favicons.githubusercontent.com/inno.massa.net",
+    "slug": "test-net-v12-2",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-09-12": 40
+    }
+  },
+  {
+    "name": "TestNet v13 with U32",
+    "url": "https://inno.massa.net/test13",
+    "icon": "https://favicons.githubusercontent.com/inno.massa.net",
+    "slug": "test-net-v13-with-u32",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-09-12": 40
+    }
+  },
+  {
+    "name": "Flappy on InnoNet v12.2",
+    "url": "https://37.187.156.118/thyra/browse/A1PBsdX7sZA1kdSzcFzRT3JbSm3cjrxpfcJNNo9YaMZNGuZE3ec/index.html",
+    "icon": "https://favicons.githubusercontent.com/37.187.156.118",
+    "slug": "flappy-on-inno-net-v12-2",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-09-12": 40
+    }
+  }
+]
