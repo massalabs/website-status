@@ -4,9 +4,9 @@
     "url": "https://test.massa.net/api/v2",
     "icon": "https://favicons.githubusercontent.com/test.massa.net",
     "slug": "current-testnet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 425,
     "timeMonth": 425,
     "timeYear": 425,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-09": 0
+    }
   },
   {
     "name": "Massa",
@@ -23,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/massa.net",
     "slug": "massa",
     "status": "up",
-    "uptime": "22.94%",
+    "uptime": "22.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "22.94%",
+    "uptimeYear": "22.86%",
     "time": 500,
     "timeDay": 633,
     "timeWeek": 440,
     "timeMonth": 461,
     "timeYear": 500,
     "dailyMinutesDown": {
-      "2023-01-09": 43,
+      "2023-01-09": 642,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
       "2023-01-06": 1440,
