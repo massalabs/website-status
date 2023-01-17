@@ -22,12 +22,6 @@ sites:
     headers:
       - "Content-Type: application/json"
     body: '{ "jsonrpc": "2.0", "method": "get_cliques", "params": [], "id": 0 }'
-  - name: InnoNet v12.2
-    url: https://inno.massa.net/test12
-    method: POST
-    headers:
-      - "Content-Type: application/json"
-    body: '{ "jsonrpc": "2.0", "method": "get_cliques", "params": [], "id": 0 }'
   - name: InnoNet v13 with U32
     url: https://inno.massa.net/test13
     method: POST
