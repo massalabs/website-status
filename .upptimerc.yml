@@ -10,6 +10,12 @@ sites:
     body: '{ "jsonrpc": "2.0", "method": "get_cliques", "params": [], "id": 0 }'
   - name: Massa 
     url: https://massa.net/
+  - name: InnoNet v19
+    url: https://inno.massa.net/test19
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "jsonrpc": "2.0", "method": "get_cliques", "params": [], "id": 0 }'
   - name: InnoNet v18
     url: https://inno.massa.net/test18
     method: POST
