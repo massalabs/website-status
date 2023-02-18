@@ -1,7 +1,7 @@
 url: https://inno.massa.net/test18
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-02-18T14:35:02.157Z
+code: 503
+responseTime: 243
+lastUpdated: 2023-02-18T23:18:57.714Z
 startTime: Thu Jan 19 2023 09:20:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
