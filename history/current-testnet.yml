@@ -1,7 +1,7 @@
 url: https://test.massa.net/api/v2
-status: down
-code: 502
-responseTime: 672
-lastUpdated: 2023-03-08T23:18:56.163Z
+status: up
+code: 200
+responseTime: 655
+lastUpdated: 2023-03-09T11:16:32.430Z
 startTime: Fri Jan 06 2023 15:19:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
